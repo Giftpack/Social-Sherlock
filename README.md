@@ -14,8 +14,6 @@
 </p>
 
 <p align="center">
-  <a href="#demo">Demo</a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installation">Installation</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Usage</a>
@@ -31,13 +29,6 @@
 </a>
 </p>
 
-
-
-
-## Demo
-
-Use this link to test Sherlock directly in your browser:
-https://elody.com/scenario/plan/16/
 
 ## Installation
 
@@ -211,7 +202,3 @@ list of sites to ignore (one site name per line).
 
 [![Stargazers over time](https://starcharts.herokuapp.com/TheYahya/sherlock.svg)](https://starcharts.herokuapp.com/TheYahya/sherlock)
 
-## License
-
-MIT © Sherlock Project<br/>
-Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
